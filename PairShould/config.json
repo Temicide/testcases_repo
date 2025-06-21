@@ -1,4 +1,5 @@
 {
-  "time_limit": 1.0,
-  "memory_limit": 262144
+  "title": "PairShould",
+  "timeLimit": 1,
+  "memoryLimit": 256
 }
