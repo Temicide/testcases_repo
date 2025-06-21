@@ -1,6 +1,6 @@
 {
   "title": "Anonymous",
-  "timeLimit": 1000,           
+  "timeLimit": 10000,           
   "memoryLimit": 256,         
   "note": "You can submit in C++ or Python. The output should match exactly."
 }
